@@ -30,6 +30,8 @@ def smallest(l):
             mySmall = num
     return mySmall
 
+# its like selection array sorting 
+# https://www.youtube.com/watch?v=5KjapFQNxUo
 
 result_sorted = []
 for i in range(len(my_list)):
