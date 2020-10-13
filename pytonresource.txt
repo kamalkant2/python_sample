@@ -1,0 +1,14 @@
+Dataclasses in Python 3.7
+https://www.youtube.com/watch?v=2CvzoNPSOHg
+
+More Videos
+https://nikhilkumarsingh.github.io/tutorials/
+
+static method v/s class method and instance methods:
+
+https://www.youtube.com/watch?v=PNpt7cFjGsM
+
+typing Module: in 3.5
+https://www.youtube.com/watch?v=3m7uTWqwg34&list=LL&index=3
+
+
